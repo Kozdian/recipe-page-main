@@ -65,7 +65,7 @@ h1, h2, h3, h4 {font-family: var(--youngSerif);}
 
 
 .recipe__image {
-    background: url('/assets/images/image-omelette.jpeg');
+    background: url(assets/images/image-omelette.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
